@@ -1,0 +1,10 @@
+{
+  "glint": {
+    "environment": ["ember-loose", "ember-template-imports"]
+  },
+  "compilerOptions": {
+    "target": "es2020",
+    "moduleResolution": "bundler"
+  },
+  "files": ["index.gts"]
+}

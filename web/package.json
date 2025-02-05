@@ -1,0 +1,18 @@
+{
+  "name": "glint-double-hint",
+  "description": "glint-double-hint",
+  "version": "0.0.1",
+  "repository": "",
+  "license": "MIT",
+  "author": "Julien Palmas",
+  "devDependencies": {
+    "@glint/core": "*",
+    "@glint/environment-ember-loose": "*",
+    "@glint/environment-ember-template-imports": "*",
+    "@glint/template": "*",
+    "typescript": "*"
+  },
+  "engines": {
+    "node": ">= 18"
+  }
+}
