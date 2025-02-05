@@ -5,9 +5,14 @@ https://discord.com/channels/480462759797063690/1334122360831475772
 
 ## Steps to reproduce
 
+- `git clone https://github.com/bartocc/glint-double-hint.git`
+- `cd glint-double-hint`
+- `npm install`
+- `code --install-extension typed-ember.glint-vscode`
+
 ### Single hint repro
 
-- In VSCode, choose `File > Open Folder…`, and choose this folder
+- `code .`
 - open `web/index.gts`
 - hover over `Foo`
 - you should see a single hint
